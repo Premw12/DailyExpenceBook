@@ -1,4 +1,4 @@
-Daily Expense Tracker
+Daily Expense Book
 
 Status: Work In Progress — Project is still under active development.
 
