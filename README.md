@@ -11,6 +11,8 @@ Frontend: JSP, HTML, CSS
 Database: MySQL
 Server: Apache Tomcat 9
 Architecture: MVC Pattern
+
+
 Features
 ✅ Login / Logout with Session Management
 ✅ Friends Module — Add, Edit, Delete friends
@@ -21,6 +23,8 @@ Features
 🔄 Password Encryption (coming soon)
 🔄 Monthly Reports & Charts (coming soon)
 🔄 Export to PDF / Excel (coming soon)
+
+
 How To Run
 Import project into Eclipse as Dynamic Web Project
 Set up MySQL and run the database schema
